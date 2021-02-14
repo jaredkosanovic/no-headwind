@@ -4,7 +4,7 @@ data "aws_route53_zone" "blog" {
 
 resource "aws_s3_bucket" "blog" {
   bucket = "noheadwind.com"
-  acl    = "private"
+  acl    = "public-read"
   policy = <<EOF
 {
     "Version": "2008-10-17",
@@ -35,13 +35,6 @@ resource "aws_cloudfront_distribution" "blog" {
   # By default, show index.html file
   default_root_object = "index.html"
   enabled             = true
-  # If there is a 404, return index.html with a HTTP 200 Response
-  custom_error_response {
-    error_caching_min_ttl = 3000
-    error_code            = 404
-    response_code         = 200
-    response_page_path    = "/index.html"
-  }
   default_cache_behavior {
     allowed_methods  = ["GET", "HEAD", "OPTIONS"]
     cached_methods   = ["GET", "HEAD", "OPTIONS"]
