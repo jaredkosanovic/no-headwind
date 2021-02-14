@@ -4,10 +4,14 @@ title = "Biking to Oregon: Part 1 - Background"
 date = "2020-12-29"
 description = "First installment in my journal of biking from Wisconsin to Oregon."
 tags = [
-    "bicycles",
-    "bikepacking",
-    "bike to oregon 2020"
+    "bikes",
+    "bikepacking"
 ]
+categories = [
+    "biking",
+    "trips",
+]
+series = ["Bike to Oregon 2020"]
 +++
 
 Group bike rides were a brief occurence in 2020. I did a few fat bike rides with friends, and even some road rides in early March, but solo riding soon became the only reasonable option.
