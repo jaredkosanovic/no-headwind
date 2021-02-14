@@ -24,6 +24,8 @@ I went through one the previous day, but the longest one (.75 miles) came early 
 When the tunnel was constructed using explosives in the 1800s, they accidentally blew through a spring.
 Cold spring water still rains from the ceiling of the tunnel, and it felt refreshing after sleeping in hot and humid weather all night and ending the day without a shower.
 
+![Tunnel on the Elroy-Sparta trail.](/images/bike-to-oregon-2020/elroy-sparta-tunnel.jpg)
+
 The Elroy-Sparta trail connected to the La Crosse River State Trail, another rail-trail that goes to the Mississippi River.
 In La Crosse, I found a sandwich shop online and ordered their largest size of sandwich and ate it at an adjacent park.
 
