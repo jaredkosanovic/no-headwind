@@ -1,6 +1,6 @@
 +++
 author = "Jared Kosanovic"
-title = "Biking to Oregon: Part 0 - Background"
+title = "Biking to Oregon: Background"
 date = "2020-12-29"
 description = "First installment in my journal of biking from Wisconsin to Oregon."
 tags = [
@@ -49,7 +49,7 @@ Once I was committed to my trip, I picked up some bikepacking bags and some back
 I did an overnighter to test out the setup by biking to a state park 25 miles away.
 That went well, with the exception of deciding not to bring a pillow, which was a bad idea.
 
-![Bike camping at Blue Mounds State Park](/images/bike-to-oregon-2020/blue-mounds-bike-camp.jpg)
+![Bike camping at Blue Mound State Park.](/images/bike-to-oregon-2020/blue-mounds-bike-camp.jpg)
 
 A couple of weeks later, I went on a longer ride, fully loaded with all my gear.
 I did a little over 90 miles on a flat rail-trail and felt good about it.

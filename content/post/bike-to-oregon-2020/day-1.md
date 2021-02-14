@@ -1,8 +1,8 @@
 +++
 author = "Jared Kosanovic"
-title = "Biking to Oregon: Day 1"
-date = "2021-02-14"
-description = "First installment in my journal of biking from Wisconsin to Oregon."
+title = "Biking to Oregon: Day 1 - Backyard Camping"
+date = "2021-02-12"
+description = "The first day of my trip, featuring rail trails, amish, and random backyards."
 tags = [
     "bikes",
     "bikepacking",
@@ -91,4 +91,4 @@ I suddenly had two choices for camping, and even though Norwalk was only 6 more 
 I chose the boyfriend's yard, after looking up both houses on google maps and favoring the one with the bigger backyard.
 He even offered to run an extension cord to the backyard in case I wanted to charge my phone.
 
-![Backyard Camping](/images/bike-to-oregon-2020/backyard-camping.jpg)
+![Backyard camping.](/images/bike-to-oregon-2020/backyard-camping.jpg)
