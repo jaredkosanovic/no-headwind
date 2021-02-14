@@ -22,13 +22,26 @@ resource "aws_s3_bucket" "blog" {
     ]
 }
 EOF
+
+  website {
+    index_document = "index.html"
+    error_document = "404.html"
+  }
 }
 
 # Create Cloudfront distribution
 resource "aws_cloudfront_distribution" "blog" {
   origin {
-    domain_name = aws_s3_bucket.blog.bucket_regional_domain_name
+    domain_name = aws_s3_bucket.blog.website_endpoint
     origin_id   = "S3-${aws_s3_bucket.blog.bucket}"
+
+    custom_origin_config {
+      // These are all the defaults.
+      http_port              = "80"
+      https_port             = "443"
+      origin_protocol_policy = "http-only"
+      origin_ssl_protocols   = ["TLSv1", "TLSv1.1", "TLSv1.2"]
+    }
   }
 
   aliases = ["noheadwind.com"]
