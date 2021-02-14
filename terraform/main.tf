@@ -1,3 +1,4 @@
+# Zone created by AWS Registar
 data "aws_route53_zone" "blog" {
   name = "noheadwind.com"
 }
@@ -35,6 +36,14 @@ resource "aws_cloudfront_distribution" "blog" {
   # By default, show index.html file
   default_root_object = "index.html"
   enabled             = true
+
+  custom_error_response {
+    error_caching_min_ttl = 3000
+    error_code            = 404
+    response_code         = 404
+    response_page_path    = "/404.html"
+  }
+
   default_cache_behavior {
     allowed_methods  = ["GET", "HEAD", "OPTIONS"]
     cached_methods   = ["GET", "HEAD", "OPTIONS"]
