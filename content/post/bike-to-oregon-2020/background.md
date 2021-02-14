@@ -27,9 +27,9 @@ I started to think about the possibility of biking from Madison to Corvallis, Or
 
 I had never camped with my bike before. Once I was committed to my trip, I picked up some bikepacking bags and some backpacking gear, like a tent and sleeping bag. I did an overnighter to test out the setup by biking to a state park 25 miles away. That went well, with the exception of deciding not to bring a pillow, which was a bad idea.
 
-![Bike camping at Blue Mounds State Park](/images/blue-mounds-bike-camp.jpg)
+![Bike camping at Blue Mounds State Park](/images/bike-to-oregon-2020/blue-mounds-bike-camp.jpg)
 
-A couple weeks later, I went on a longer ride, fully loaded with all my gear. I did a little over 90 miles on a flat rail-trail and felt good about it. While on my way back home, I caught up to another cyclist on a fully-loaded touring bike. I said hello and he seemed happy to chat. He was on his last day on a trip from Denver to Madison, riding solo. I told him about my impending trip and he gave me some good advice on camping and food options among the pandemic. I felt so lucky to pick his brain, and he seemed to appreciate the distraction on the tail-end of a long day.
+A couple of weeks later, I went on a longer ride, fully loaded with all my gear. I did a little over 90 miles on a flat rail-trail and felt good about it. While on my way back home, I caught up to another cyclist on a fully-loaded touring bike. I said hello and he seemed happy to chat. He was on his last day on a trip from Denver to Madison, riding solo. I told him about my impending trip and he gave me some good advice on camping and food options among the pandemic. I felt so lucky to pick his brain, and he seemed to appreciate the distraction on the tail-end of a long day.
 
 At this point, I figured I was ready enough to start the trip, and anything I forgot or hadn’t figured out yet, I would deal with along the way. Let’s go!
 
