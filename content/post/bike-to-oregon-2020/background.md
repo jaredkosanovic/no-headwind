@@ -1,15 +1,17 @@
 +++
 author = "Jared Kosanovic"
-title = "Biking to Oregon: Part 1 - Background"
+title = "Biking to Oregon: Part 0 - Background"
 date = "2020-12-29"
 description = "First installment in my journal of biking from Wisconsin to Oregon."
 tags = [
     "bikes",
-    "bikepacking"
+    "bikepacking",
+    "summer",
+    "midwest"
 ]
 categories = [
     "biking",
-    "trips",
+    "trips"
 ]
 series = ["Bike to Oregon 2020"]
 +++
