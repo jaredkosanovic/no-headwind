@@ -14,6 +14,7 @@ categories = [
     "trips"
 ]
 series = ["Bike to Oregon 2020"]
+thumbnail = "images/bike-to-oregon-2020/elroy-sparta-tunnel.jpg"
 +++
 The next morning I packed up everything and went back to the Hitchin’ Post for breakfast and to fill my water bottles.
 I hopped back on to the Elroy-Sparta trail, which has 3 tunnels that are open to the public.

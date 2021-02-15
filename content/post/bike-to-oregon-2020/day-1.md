@@ -14,6 +14,7 @@ categories = [
     "trips"
 ]
 series = ["Bike to Oregon 2020"]
+thumbnail = "images/bike-to-oregon-2020/backyard-camping.jpg"
 +++
 I started the first day of the trip with a relaxed morning, setting an alarm clock just in case but otherwise planning to ease into the day and getting a full night of sleep.
 Abbey was planning to ride the start of the first day with me on the condition that she wouldn’t have to be woken up by an alarm clock either.
