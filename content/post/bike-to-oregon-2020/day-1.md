@@ -72,7 +72,7 @@ I was expecting this and my route to Wilton considered the extra mileage of deto
 
 My first detour took me up a steep hill into an amish area, where the shoulder of the road had horse poop every 30 feet and I saw someone cultivating their field using one of those old-timey horse-drawn cultivators.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3748490770/embed/db70ba98aa9e653af1b945b3656b65cee5f1fc44'></iframe>
+{{< strava_activity 3748490770 db70ba98aa9e653af1b945b3656b65cee5f1fc44 >}}
 
 I eventually made it to Wilton and headed towards a city campground that I found on Google Maps a couple weeks earlier.
 It was closed, likely due to COVID.

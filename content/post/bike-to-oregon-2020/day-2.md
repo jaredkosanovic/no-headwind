@@ -52,7 +52,7 @@ As I was standing up and pedaling to give my butt a break, a group of motorcycle
 I’ve come to realize that people who do stuff like that just want a reaction, either from their peers or from me.
 My solution is to not give them what they want, so I just ignore them and keep riding.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3754282461/embed/675451699c118bd0d3f46cbfbe2e5c15774915db'></iframe>
+{{< strava_activity 3754282461 675451699c118bd0d3f46cbfbe2e5c15774915db >}}
 
 When I made it to Nelson, the restaurants I was planning to eat at were closed.
 I usually make sure to check Google Maps, but with these being small town restaurants, their online presence is usually outdated.

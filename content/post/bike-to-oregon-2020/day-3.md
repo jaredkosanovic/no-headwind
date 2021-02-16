@@ -76,7 +76,7 @@ I texted Abbey who asked how my day was going and said I was going to keep ridin
 My goal was to ride another 28 miles to Wild River State Park along the Saint Croix River in Minnesota.
 With the wind at my back, I crossed the Wisconsin-Minnesota border for the 5th time in 24 hours and sailed north, diverting from the route to take some more direct gravel roads.
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/3758548330/embed/5bb2b6c543eea6ca5465d53e0890ddb85baaf5d0'></iframe>
+{{< strava_activity 3758548330 5bb2b6c543eea6ca5465d53e0890ddb85baaf5d0 >}}
 
 I set up camp at the state park and texted Abbey that I had made it with the one bar of cell service I had.
 The campground had a shower, which started to become an essential daily activity I would look forward to after long days of riding.
