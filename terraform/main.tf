@@ -222,3 +222,12 @@ resource "aws_route53_record" "www_redirect" {
     evaluate_target_health = false
   }
 }
+
+resource "aws_route53_record" "google_search_console_verification" {
+  zone_id = data.aws_route53_zone.blog.zone_id
+  name = var.domain
+  type = "TXT"
+  ttl = 300
+
+  records = ["google-site-verification=I55mkygDlJPbZMSS1rpbR6oNLy_BRL_MUeR4AKa6Ul0"]
+}
