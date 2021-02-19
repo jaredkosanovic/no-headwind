@@ -124,6 +124,8 @@ She told me on the phone that the campground was open.
 Only one more untrained, off-leash dog separated me between my destination for the night.
 This time the dog never made it onto the highway, only reluctantly turning around after being called by its owners several times.
 
+{{< strava_activity 3763501947 7f8720e8e5a6c459ac763f282092378c621f8755 >}}
+
 When I made it to Bowlus, I parked my bike at the restaurant to get dinner and asked about camping.
 I paid $15 for the camping in addition to dinner, then sat outside to eat.
 After dinner, I set up camp at the park across the street.
