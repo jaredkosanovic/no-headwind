@@ -1,6 +1,6 @@
 +++
 author = "Jared Kosanovic"
-title = "Biking to Oregon: Day 3 - Over the river and north."
+title = "Biking to Oregon: Day 3 - Over the River and North"
 date = "2021-02-14"
 description = "A hilly day filled with river crossings and tailwinds."
 tags = [

@@ -1,6 +1,6 @@
 +++
 author = "Jared Kosanovic"
-title = "Biking to Oregon: Day 4 - A day trip to the bunkhouse."
+title = "Biking to Oregon: Day 4 - A Day Trip to the Bunkhouse"
 date = "2021-02-17"
 description = "The first full day of Minnesota, filled with light rain, construction, and questionable dogs."
 tags = [

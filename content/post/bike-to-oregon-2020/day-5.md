@@ -1,6 +1,6 @@
 +++
 author = "Jared Kosanovic"
-title = "Biking to Oregon: Day 5 - Car(e) free."
+title = "Biking to Oregon: Day 5 - Car(e) Free"
 date = "2021-02-18"
 description = "112 miles of paved rail-trails connects me from Bowlus to Fergus Falls, MN."
 tags = [
