@@ -2,7 +2,7 @@
 author = "Jared Kosanovic"
 title = "Biking to Oregon: Day 11 - Follow the Train"
 date = "2021-03-17"
-description = "North Dakota said goodbye by being less windy and more scenic."
+description = "A shorter, flatter day through eastern Montana."
 tags = [
     "bikes",
     "bikepacking",
