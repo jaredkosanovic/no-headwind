@@ -28,7 +28,7 @@ At the bottom of the valley was Little Yellowstone County Park and campground.
 I stopped in to see if they had any drinking water.
 I had barely drank any water so far, but I knew there were few rest stops between me and my destination for the day, so I wanted to top off.
 
-![The descent to Little Yellowstone County Park. A visual break from the grass and cattle.](/images/bike-to-oregon-2020/little-yellowstone-valley.jpg)
+![The descent to Little Yellowstone County Park. A visual break from the plains and cattle.](/images/bike-to-oregon-2020/little-yellowstone-valley.jpg)
 
 As I started to head towards the exit, I saw a camper standing outside an RV drinking coffee.
 It was still early in the day and nobody else seemed to be awake, but I biked by to say hello.
@@ -56,7 +56,7 @@ It was still the morning, but it was warming up fast and the winds were picking 
 Although not a direct headwind, crosswinds still have a big effect on the speed and enjoyment of riding.
 I almost welcome passing semi trucks who provide a couple seconds of wind blockage.
 
-![Apparently there is a continental in North Dakota. I had to do a double to make sure the loop of plains and cattle wasn't causing me to hallucinate.](/images/bike-to-oregon-2020/continental-divide-north-dakota.jpg)
+![Apparently there is a continental divide in North Dakota. I had to double check to make sure the loop of plains and cattle wasn't causing me to hallucinate.](/images/bike-to-oregon-2020/continental-divide-north-dakota.jpg)
 With the exception of the few curves when I passed through Little Yellowstone, the highway I was on that day was dead straight, going directly west.
 I made it to Gackle by noon and had no problem finding the Honey Hub in the town of 287 people.
 
