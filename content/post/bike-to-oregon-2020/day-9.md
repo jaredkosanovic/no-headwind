@@ -45,7 +45,7 @@ Even though I was riding slower than if I was riding alone, having someone to ta
 
 ![Alan, riding his mountain bike with trailer in tow.](/images/bike-to-oregon-2020/running-into-alan.jpg)
 
-We stopped for a break in Hebron, and I called the only hotel in Hebron to reserve a couple rooms for Alan and I.
+We stopped for a break in Hebron, and I called the only hotel in Richardton to reserve a couple rooms for Alan and I.
 He had camping gear too, but we both agreed it was a good day to end inside.
 We continued to Richardton, talking the whole way.
 
@@ -70,7 +70,7 @@ I pulled over to refill my bottles and dilute my fruit punch gatorade.
 
 ![When life gives you wind, you make wind art.](/images/bike-to-oregon-2020/north-dakota-contraption.jpg)
 
-Abbey booked me another hotel in Dickinson, and I was starting to feel like my camping gear was dead weight, but the hotels were making all the difference for me ability to recover.
+Abbey booked me another hotel in Dickinson, and I was starting to feel like my camping gear was dead weight, but the hotels were making all the difference for my ability to recover.
 I caught up to Alan again.
 The wind had died down at this point.
 We talked for some more, but he said he didn’t mind if I just wanted to continue to Dickinson alone.
