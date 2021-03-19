@@ -62,6 +62,9 @@ I made it to the top and enjoyed the descent into Lewistown.
 
 I found a hotel, showered, and took a long nap.
 Today was another day of more mental exhaustion than physical exhaustion.
+
+{{< strava_activity 3805982922 0117bfbe64012264e6aa64bd7aad6aea13adf261 >}}
+
 I texted Alan, knowing he didn’t have a phone on him but was planning to buy a new one in town.
 I got dinner at a local brewery and then stopped by an Albertson’s grocery store, a familiar sign that I was getting closer to Oregon.
 After getting back to the hotel, I got a text back from Alan, saying he bought a new phone and was staying at hotel on the west side of town.
