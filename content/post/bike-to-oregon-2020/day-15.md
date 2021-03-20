@@ -1,7 +1,7 @@
 +++
 author = "Jared Kosanovic"
 title = "Biking to Oregon: Day 15 - Crossing the Continental Divide"
-date = "2021-03-20"
+date = "2021-03-21"
 description = "I ride into the Helena National Forest and over Rogers Pass, crossing the continental divide."
 tags = [
     "bikes",
