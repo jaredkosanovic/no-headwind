@@ -1,7 +1,7 @@
 +++
 author = "Jared Kosanovic"
 title = "Biking to Oregon: Day 17 - Smooth Sailing Into Idaho"
-date = "2021-03-22"
+date = "2021-03-23"
 description = "The best day of the trip so far with minimal wind and traffic, and an overall downhill grade."
 tags = [
     "bikes",
