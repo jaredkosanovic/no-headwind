@@ -1,7 +1,7 @@
 +++
 author = "Jared Kosanovic"
 title = "Biking to Oregon: Day 21 - A Night in the Church"
-date = "2021-04-07"
+date = "2021-04-06"
 description = "A hot Oregon day ends in a small town with a generous church."
 tags = [
     "bikes",
