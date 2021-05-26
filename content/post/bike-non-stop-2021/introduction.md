@@ -1,8 +1,7 @@
 +++
 author = "Jared Kosanovic"
-title = "Racing Across the US to Help End Polio"
-date = "2021-05-20"
-draft = true
+title = "Racing Across the USA to Help End Polio"
+date = "2021-05-26"
 description = "I'm planning on a big ride this summer, racing my bicycle from Portland, Oregon to Washington D.C. I'm fundraising to help end polio."
 tags = [
     "bikes",
@@ -15,8 +14,9 @@ categories = [
     "races"
 ]
 series = ["Bike Nonstop US 2021"]
-thumbnail = "images/bike-to-oregon-2020/mckenzie-pass-thumbnail.jpg"
+thumbnail = "images/bike-nonstop-2021/rail-trail-thumbnail.jpg"
 +++
+
 This summer, I will be racing in [Bike Nonstop US](https://bikenonstop.com/), a 3,500 mile self-supported bicycle race from Portland, Oregon to Washington D.C.
 After my first bike tour last summer, I was eager to do something bigger and have an opportunity to improve some of the aspects of last year's trip.
 The route of Bike Nonstop initially stood out to me, with the focus on less traveled roads, and taking advantage of rail trails where available.
@@ -24,7 +24,7 @@ The route of Bike Nonstop initially stood out to me, with the focus on less trav
 ## Fundraising to Help End Polio
 
 As part of doing something bigger for myself, I also want to do something for others.
-That is why I will be using the race to help end polio.
+That is why I will be using the race to raise funds to help end polio.
 Polio is a virus that attacks the nervous system, causing paralysis and sometimes death.
 Commonly spread through contaminated drinking water, polio mostly affects children under 5 years old.
 
@@ -38,7 +38,7 @@ Thanks to the eradication of polio so far and advances in treatment, iron lungs 
 
 My goal is to raise $1 for every mile of the race: $3,500 total.
 Please consider donating to my fundraiser to help end polio.
-Donations can be given on [my fundraising page on the Raise for Rotary website](https://raise.rotary.org/).
+Donations can be given on [my fundraising page on the Raise for Rotary website](https://raise.rotary.org/jaredkosanovic/challenge).
 
 ## The Race
 
@@ -49,5 +49,5 @@ The route incorporates a mix of asphalt roads, gravel roads, and rail trails.
 ## What's Next
 
 In June, I will create another post with more details about how to follow the race.
-For now, please consider learning more about polio and [donating to my fundraiser](https://raise.rotary.org/).
+For now, please consider learning more about polio and [donating to my fundraiser](https://raise.rotary.org/jaredkosanovic/challenge).
 
