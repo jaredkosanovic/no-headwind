@@ -1,6 +1,6 @@
 +++
 author = "Jared Kosanovic"
-title = "Racing Across the USA to Help End Polio"
+title = "Racing Across the USA While Helping to End Polio"
 date = "2021-05-26"
 description = "I'm planning on a big ride this summer, racing my bicycle from Portland, Oregon to Washington D.C. I'm fundraising to help end polio."
 tags = [
@@ -48,6 +48,6 @@ The route incorporates a mix of asphalt roads, gravel roads, and rail trails.
 
 ## What's Next
 
-In June, I will create another post with more details about how to follow the race.
+Closer to the start of the race, I will create another post with more details about how to follow along.
 For now, please consider learning more about polio and [donating to my fundraiser](https://raise.rotary.org/jaredkosanovic/challenge).
 
