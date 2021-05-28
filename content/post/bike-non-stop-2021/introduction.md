@@ -30,7 +30,7 @@ Commonly spread through contaminated drinking water, polio mostly affects childr
 
 I am fundraising through Rotary, who has been working to end polio for 35 years.
 Rotary has reduced polio cases by 99.9%, and the virus only remains today in Afghanistan and Pakistan.
-My Dad has been apart of Rotary for as long as I can remember.
+My Dad has been a part of Rotary for as long as I can remember.
 While stopping by a Rotary convention as a child with my Dad, I can recall seeing an iron lung for the first time and being amazed that anyone would have to spend time in it.
 Thanks to the eradication of polio so far and advances in treatment, iron lungs are largely obsolete today, although that image from my childhood is still in my memory today as a symbol of the virus.
 
