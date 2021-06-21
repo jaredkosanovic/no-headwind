@@ -1,7 +1,7 @@
 +++
 author = "Jared Kosanovic"
 title = "Watching the Race"
-date = "2021-06-21"
+date = "2021-06-20"
 description = "Bike Nonstop is less than a week away. Here's how to follow along."
 tags = [
     "bikes",
