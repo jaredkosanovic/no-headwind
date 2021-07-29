@@ -22,16 +22,20 @@ This post contains resources for following along with the race.
 As part of my participation, I'm fundraising to help end Polio.
 Take a look at my [previous post for more details](../introduction) and please consider [donating to my fundraiser](https://raise.rotary.org/jaredkosanovic/challenge).
 
+## Instagram
+
+Follow my [Instagram profile](https://www.instagram.com/j_rad_k/) for posts and stories during the race.
+
+## Strava
+
+I'll be recording GPS data and uploading to [my Strava profile](https://www.strava.com/athletes/4787189) as cell service allows.
+
 ## Dot Watching
 
 Every racer has a GPS tracker sending their location to a map on a regular basis.
 Follow along on the map and look out for my initials, "JK".
 
 <iframe width="1000" height="850" frameborder="0" scrolling="no" src="//trackleaders.com/bikenonstop21f.php" allowfullscreen></iframe>
-
-## Instagram
-
-Follow my [Instagram profile](https://www.instagram.com/j_rad_k/) for posts and stories during the race.
 
 ## Blog
 
