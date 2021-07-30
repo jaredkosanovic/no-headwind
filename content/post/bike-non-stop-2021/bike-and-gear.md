@@ -1,8 +1,8 @@
 +++
 author = "Jared Kosanovic"
 title = "Bike Nonstop US Gear and Bike Setup"
-date = "2021-05-26"
-description = "Here's the details on the gear and bike I used for Bike Nonstop, a 3,500 mixed terrain race across the United States."
+date = "2021-07-29"
+description = "Here are the details on the gear and bike I used for Bike Nonstop, a 3,500 mixed terrain bike race across the United States."
 tags = [
     "bikes",
     "bikepacking",
@@ -15,7 +15,7 @@ categories = [
     "races"
 ]
 series = ["Bike Nonstop US 2021"]
-thumbnail = "images/bike-nonstop-2021/rail-trail-thumbnail.jpg"
+thumbnail = "images/bike-nonstop-2021/gear-thumbnail.jpg"
 +++
 
 I just finished Bike Nonstop US, a 3,500 mile, mixed terrain race across the United States.
