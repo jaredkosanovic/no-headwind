@@ -57,7 +57,7 @@ Wildfires in 2020 have left most of that route closed ever since, requiring a ro
 ![Still Creek Road near Mount Hood, Oregon.](/images/bike-nonstop-2021/still-creek-road.jpg)
 
 I enjoyed climbing Still Creek Road, a beautiful single-lane forest road close to Mount Hood, with abundant shade and sounds of running water.
-Later on highway 214, I passed signs for a fire that had broken out a week before.
+Later on highway 216, I passed signs for a fire that had broken out a week before.
 Fortunately, fire crews quickly had the fire under control and a reroute wasn't needed.
 
 ![Sign for a fire that was still active nearby.](/images/bike-nonstop-2021/oregon-fire-sign.jpg)
