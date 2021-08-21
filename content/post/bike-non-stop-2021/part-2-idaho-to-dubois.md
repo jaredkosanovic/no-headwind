@@ -187,7 +187,7 @@ It was great to talk with people who have been riding the GDMBR.
 Their favorite part so far was the mountain passes in Colorado.
 Their least favorite was the Great Basin in Wyoming.
 
-![Jackon Lake.](/images/bike-nonstop-2021/jackson-lake.jpg)
+![Jackson Lake.](/images/bike-nonstop-2021/jackson-lake.jpg)
 
 Andrew and I joined the highway and continued south through Grand Teton National Park.
 I had been dreading this section, especially with it being the fourth of July.
