@@ -1,8 +1,8 @@
 +++
 author = "Jared Kosanovic"
-title = "Who turned on the hair dryer? - Bike Nonstop US Part 2: Mountain Time"
-date = "2021-08-09"
-description = "The first post summarizing my experience with Bike Nonstop US, a 3,500 mile, mixed terrain race across the United States. Oregon was the hottest and most challenging part, and we're just getting started."
+title = "Big climbs and cool people - Bike Nonstop US Part 2: Idaho to Dubois, WY"
+date = "2021-08-20"
+description = "Ontario, OR to Dubois, WY brings big climbs and cooler temperatures."
 tags = [
     "bikes",
     "bikepacking",
@@ -16,11 +16,11 @@ categories = [
     "races"
 ]
 series = ["Bike Nonstop US 2021"]
-thumbnail = "images/bike-nonstop-2021/mount-hood-thumbnail.jpg"
+thumbnail = "images/bike-nonstop-2021/jackson-lake-thumbnail.jpg"
 +++
 
 This post is part of a series summarizing my experience with Bike Nonstop US, a 3,500 mile, mixed terrain race across the United States.
-Take a look at [this page for all posts related to Bike Nonstop 2021](TODO).
+Take a look at [this page for all posts related to Bike Nonstop 2021](/series/bike-nonstop-us-2021/).
 
 For more information on the race itself, [take a look at my introduction post](../introduction).
 
@@ -45,6 +45,8 @@ Feeling tired, I put on some music and found myself in my aero bars making shado
 A fun way to stay awake, or a cry for help?
 I'm still not sure.
 
+![Climbing to Lowman, ID.](/images/bike-nonstop-2021/climbing-to-lowman-idaho.jpg)
+
 The sun came up and a couple hours later I made it to a convenience store in Lowman, my first resupply since leaving Ontario a little over 100 miles ago.
 I was still feeling good and put my sights on Stanley to stop for the day, about 50 more miles.
 This would also keep me awake long enough to hopefully correct my sleep schedule.
@@ -62,13 +64,24 @@ I pulled over at the top by a restroom where a couple other cyclists were puttin
 They were touring [Adventure Cycling Association's Idaho Hot Springs Route](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/idaho-hot-springs-mountain-bike-route/).
 It's so much fun to meet other cyclists on their tours, and it was some welcomed socialization after riding most of the night solo.
 
+![A well-worn welcome sign to Banner Pass.](/images/bike-nonstop-2021/banner-summit.jpg)
+
 I descended into Stanley and arrived at my campsite, which was an open grass field behind a hotel.
 In retrospect, a better option would've been to resupply and keep going to a campground along the Salmon River, but I was feeling pretty destroyed and some storms were approaching.
+
+![Views of the Sawtooth Range.](/images/bike-nonstop-2021/sawtooth-range-near-stanley.jpg)
+
 Stanley was a popular town.
 Someone mentioned they had booked their hotel four months ago.
 
+![Camping in Stanley.](/images/bike-nonstop-2021/stanley-camping.jpg)
+
 It had taken me almost 17 hours to get from Ontario, OR to Stanley, ID, with an overall uphill elevation profile.
 It was rewarding though, putting in my longest day yet and being far away from the Oregon heat.
+
+{{< strava_activity 5560334534 aeae302c2df321a09565383f8a92e1bcdd6b03e2 >}}
+
+![Elevation profile of the long night and day of riding.](/images/bike-nonstop-2021/ontario-to-stanley-elevation-profile.png)
 
 Nathan arrived in the early evening, wearing all his rain gear and soaked from the storms on Banner Pass that I luckily missed the worst of.
 I'm glad Nathan and I crossed paths.
@@ -76,28 +89,44 @@ It was great to chat with him, as brief as it was.
 I wish we could've talked more but I was physically and mentally destroyed from a long day of riding and had to get some sleep.
 Nathan has been keeping a [daily journal](https://www.crazyguyonabike.com/doc/?o=1mr&doc_id=23553&v=84) to help people follow along with his adventures.
 
+![Nathan and I in Stanley. I was struggling to stay awake.](/images/bike-nonstop-2021/nathan-jared-portrait.JPG)
+
 ## Cold Start and a Quiet Day
 
 That night and next morning, I used all the gear that had been sitting idle throughout Oregon.
 It dropped down to 42°F, so I dusted off the wool socks, wool tights, and down jacket.
 The first couple hours of the day were mostly downhill, which was welcomed, since I was feeling pretty slow from the previous long day.
 
+![Morning views of the Salmon River, Idaho.](/images/bike-nonstop-2021/salmon-river-idaho.jpg)
+
 The scenery was beautiful, biking next to the Salmon River with endless mountains and canyons.
 Traffic was minimal, the wind was slightly at my back, and it was the first day that I didn't have to worry about the weather.
 
+![Grand View Canyon. It felt like I was entering a black hole.](/images/bike-nonstop-2021/grand-view-canyon-idaho.jpg)
+
 Joining a slightly busier highway, I started the gradual climb up to Willow Creek Summit which was a new highest point on the route so far.
+
+![Willow Creek Summit, with Borah Peak in the background.](/images/bike-nonstop-2021/willow-creek-summit-idaho.jpg)
+
+{{< strava_activity 5565026528 13a589365604b3ac1379dcd9e281e281509c957c >}}
 
 I ended the day in Arco, ID.
 Overall a calm and uneventful day.
-I layed out all my camp gear in the hotel to dry it after being soaked in dew the night before in Stanley.
+I laid out all my camp gear in the hotel to dry it after being soaked in dew the night before in Stanley.
 
 ## Straight and Flat Riding Towards Eastern Idaho
 
 Still being chased by Andrew and Kevin, I woke up early to try to stay ahead of them.
 This was a fun aspect of the race, having the choice between riding with others or using them as motivation to catch up or stay ahead.
 This was the flattest and least-curvy day of the entire race so far.
+
+![Sunrise revealing the straight and flat highway.](/images/bike-nonstop-2021/early-idaho-sunrise.jpg)
+
+I started to see a glimpse of the Teton Range in the distance.
 Very little civilization between Arco and Rexburg, ID besides a couple small towns.
 Still being in the mindset of hot weather, I was carrying all 160 ounces of water but only needed half of that to make it 90 miles to Rexburg.
+
+![A long, straight road. I haven't seen this since eastern Oregon.](/images/bike-nonstop-2021/straight-in-idaho.jpg)
 
 While in Rexburg, I stopped at a farm supply store to get a canister of bear spray for the next day, where I was planning to cross the Teton Range and the continental divide.
 It came with a holster.
@@ -114,6 +143,8 @@ Traffic picked up in Ashton and on the way out of town, given the holiday weeken
 To my understanding, this is one major point where the 2019 and 2021 Bike Nonstop routes differed.
 In 2019, the route went back south to cross over Teton Pass on highway 22 instead of continuing east on the Great Divide route, likely due to snow.
 
+{{< strava_activity 5571113996 b4fb3365cfbccb29bc10cbbb14ac262a872a9164 >}}
+
 I arrived at Squirrel Creek Guest Ranch and the owner was so friendly.
 "Go ahead and get settled in and then let me know when you're ready for some dinner." He said, pointing at the cabin I had all to myself.
 
@@ -122,6 +153,8 @@ Their names were Porchara and Sasila, and they were on a journey crossing the co
 They had started in Washington and were aiming to finish in New York.
 Our routes had joined around this point and were overlapping through Wyoming until the east end of Nebraska.
 We chatted for a little bit before I went into my cabin to shower and nap.
+
+![Sasila, Porchara, and I in front of our cabins.](/images/bike-nonstop-2021/kustard-krew.jpg)
 
 I woke up and joined Porchara and Sasila for dinner at the main lodge where the owner and some other guests were hanging out, enjoying the music on the porch.
 I ordered two entrees, a pulled pork sandwich with onion rings and a hamburger with french fries.
@@ -154,30 +187,35 @@ It was great to talk with people who have been riding the GDMBR.
 Their favorite part so far was the mountain passes in Colorado.
 Their least favorite was the Great Basin in Wyoming.
 
+![Jackon Lake.](/images/bike-nonstop-2021/jackson-lake.jpg)
+
 Andrew and I joined the highway and continued south through Grand Teton National Park.
 I had been dreading this section, especially with it being the fourth of July.
 It wasn't too pleasant, but better than expected.
 Fewer cars and driving slower than anticipated.
+
+![Teton Range.](/images/bike-nonstop-2021/teton-range.jpg)
 
 We exited the park and resupplied before starting the last major climb of the entire route: Togwotee Pass which was also the continental divide.
 Many signs along the highways cautioned travelers to stay in their cars due to bears.
 This section reminded me of climbing Banner Pass in Idaho with all the biting flies, motivating me to ride faster.
 At this point, the route was also overlapping the TransAmerica Trail again, so I saw several groups of bike tourers heading westbound and descending the pass.
 Unlike the flies, the cyclists cheered me on as I climbed towards the top.
+
+![Enjoying the views while climbing Togwotee Pass.](/images/bike-nonstop-2021/climbing-togwotee-pass.jpg)
+
 The climb went on for a while but was a comfortable grade the entire way.
 Andrew and I took each others' pictures at the top and started descending towards Dubois, Wyoming.
+
+![Celebrating the crossing of the divide. All downhill from here, right?.](/images/bike-nonstop-2021/continental-divide-portrait.JPG)
 
 I didn't see a single bear the entire day, which was a little disappointing at the time.
 Later on and after the race, I had learned that my specific bear spray had been recalled due to some of the cansisters manufactured around that time failing to spray when triggered.
 In retrospect, I'm glad I didn't see any bears.
 
+{{< strava_activity 5576569814 33e3c6ffb8a5ae390b5f639aec75b0ca7de57489 >}}
+
 We split a small hotel room in Dubois which ended up being the most expensive hotel of the entire race, likely due to the holiday weekend and proximity to the national park.
 No fridge or microwave either, so I bought a bag of ice and filled up an empty trash can in the room to keep some yogurt and milk cold for breakfast the next morning.
 It was a shorter day mileage-wise, but with the 40 miles of gravel in the morning, it was a good point to stop.
 Andrew and I set our alarms for 2:00 AM the next day to get an early start.
-
-![View of Mount Hood from nearby Pine Grove, OR](/images/bike-nonstop-2021/central-oregon-hood-view.jpg)
-
-{{< strava_activity 5540296064 09bb2cf0c4b765070309273200c471f99b7f5f41 >}}
-
-
