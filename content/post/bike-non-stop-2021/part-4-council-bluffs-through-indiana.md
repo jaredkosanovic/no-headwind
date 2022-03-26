@@ -1,6 +1,6 @@
 +++
 author = "Jared Kosanovic"
-title = "Flatter roads, flattest tires - Bike Nonstop US Part 4: Council Bluffs, IA through Indiana"
+title = "Hills and Trails - Bike Nonstop US Part 4: Council Bluffs, IA through Indiana"
 date = "2022-03-25"
 description = "Hills, rail trails, and farm roads bring me into the eastern timezone."
 tags = [
@@ -41,8 +41,7 @@ The reports on social media were right. Slow, sticky trail surface with tons of 
 On a good day, this trail would be perfect. It had a great tree canopy with abundant services and cycling infrastructure.
 We had to detour around one section due to reports of a bridge that was ruined by the storms.
 
-The southern terminus of the trail was almost comical.
-It just ended, it felt like I was at the end of someone's driveway.
+The southern terminus of the trail just ended, it felt like I was at the end of someone's driveway.
 I heard that Missouri was hilly, and it was almost comical how immediately the hills started at the state line.
 
 ## Missouri
@@ -54,7 +53,7 @@ Fortunately for the middle of the day, traffic was relatively light, and drivers
 ![The hills start immediately.](/images/bike-nonstop-2021/missouri-hills.jpg)
 
 The hills were intense, steep, and endless.
-We ended the day in Maryville, the last all-services town for the next 85.
+We ended the day in Maryville, the last all-services town for the next 85 miles.
 
 The next day started a little after 3:00 AM.
 This was the hilliest day since riding in the west.
@@ -128,7 +127,7 @@ Judy is the mother of Rebecca Rusch, who is a celebrity in the ultra-endurance w
 I had learned of Rebecca earlier that year and she was one of my motivators for doing this trip.
 Rebecca's movie [Blood Road](https://www.redbull.com/us-en/films/blood-road) was very inspirational to me.
 It was a great story of her father's experience and plane crash in the Vietnam War, told through an intense biking challenge while detailing the history of the war.
-I learned more than I ever had about the Vietnam War, a war my own father was also serving in through the Air Force around the same time.
+I learned more than I ever had about the Vietnam War watching Blood Road, a war my own father was also serving in with the Air Force around the same time.
 
 Thank you Judy for the mental boost that day, and Rebecca for the inspiration!
 
