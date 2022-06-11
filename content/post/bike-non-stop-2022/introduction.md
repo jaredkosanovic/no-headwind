@@ -17,7 +17,7 @@ series = ["Bike Nonstop US 2022"]
 thumbnail = "images/bike-nonstop-2022/intro-thumbnail.jpg"
 +++
 
-This year, I’m participating in [Bike Nonstop](https://bikenonstop.com/), which is a 3,500 mile mixed terrain bike race across the United States.
+Starting on June 19th, 2022, I’m participating in [Bike Nonstop](https://bikenonstop.com/), which is a 3,500 mile mixed terrain bike race across the United States.
 I did this same event last year, but I’m back for round two.
 I feel like I can beat my time from last year and I like the idea of riding a familiar route.
 Besides being familiar, the route itself is a great way to traverse the country because it uses a lot of cycling infrastructure.
@@ -37,6 +37,7 @@ Bike Nonstop is a self-supported event, meaning that I can’t accept any food, 
 You can follow my progress by using the map below or by [going to this link](https://trackleaders.com/bikenonstop22).
 The race director has also developed a mobile app that allows riders to share photos and videos from along the route.
 The app also shows rider locations based on their cell phone location, but in most cases, the map below will be more accurate since it’s based on our dedicated GPS trackers.
+Links to download the app are on [the bottom of this page](https://rideyrbike.com/).
 
 I’m looking forward to seeing the country from my bike again, meeting some locals, and finding my mental and physical limits.
 I’m excited to see what can come as a result of all the preparations and tweaks I’ve made from last year.
