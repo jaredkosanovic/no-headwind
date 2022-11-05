@@ -17,7 +17,7 @@ series = ["Bike Nonstop US 2022"]
 thumbnail = "images/bike-nonstop-2022/horseshoe-bend-gravel-thumbnail.jpg"
 +++
 
-In [my last post](introduction), I talked about my plans for racing in Bike Nonstop again.
+In [my last post](../introduction), I talked about my plans for racing in Bike Nonstop again.
 My goals for this year were to ride across the country faster and improving on my experience based on my lessons learned from last year.
 In this post, I'll share how my adventure went and what led to me scratching from the race after 4 days of riding.
 
